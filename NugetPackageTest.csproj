@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <PackageId>deltahedge1.Logger</PackageId>
+    <Version>1.0.3</Version>
+    <Authors>Ish Hassan</Authors>
+    <Company>deltahedge1</Company>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <Product>AppLogger</Product>
+    <Description>This is a test package that has a logger</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Include README file in the package -->
+    <Content Include="$(MSBuildThisFileDirectory)README.md" Pack="true" PackagePath="." />
+  </ItemGroup>
+
+</Project>
