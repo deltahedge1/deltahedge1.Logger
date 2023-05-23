@@ -22,3 +22,5 @@ C:\Users\au-rssoetest4\OneDrive - KPMG\Documents\csharpprojects\NugetPackageTest
 C:\Users\au-rssoetest4\OneDrive - KPMG\Documents\csharpprojects\NugetPackageTest\obj\Debug\net7.0\refint\NugetPackageTest.dll
 C:\Users\au-rssoetest4\OneDrive - KPMG\Documents\csharpprojects\NugetPackageTest\obj\Debug\net7.0\NugetPackageTest.pdb
 C:\Users\au-rssoetest4\OneDrive - KPMG\Documents\csharpprojects\NugetPackageTest\obj\Debug\net7.0\ref\NugetPackageTest.dll
+C:\Users\au-rssoetest4\OneDrive - KPMG\Documents\csharpprojects\NugetPackageTest\bin\Debug\net7.0\README.md
+C:\Users\au-rssoetest4\OneDrive - KPMG\Documents\csharpprojects\NugetPackageTest\bin\Debug\net7.0\LICENSE
