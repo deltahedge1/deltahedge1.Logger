@@ -8,10 +8,10 @@
     <Version>1.3.0</Version>
     <Authors>Ish Hassan</Authors>
     <Company>deltahedge1</Company>
-    <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Product>AppLogger</Product>
     <Description>This is a test package that has a logger</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>MIT</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
