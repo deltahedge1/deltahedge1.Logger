@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <PackageId>deltahedge1.Logger</PackageId>
-    <Version>1.3.1</Version>
+    <Version>1.3.2</Version>
     <Authors>Ish Hassan</Authors>
     <Company>deltahedge1</Company>
     <Product>AppLogger</Product>
@@ -17,7 +17,7 @@
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="" CopyToOutputDirectory="Always" />
     <None Include="LICENSE" Pack="true" PackagePath="" CopyToOutputDirectory="Always" />
-    <ProjectReference Include="https://github.com/username/repository.git" />
+    <ProjectReference Include="https://github.com/deltahedge1/deltahedge1.Logger" />
   </ItemGroup>
 
 </Project>
