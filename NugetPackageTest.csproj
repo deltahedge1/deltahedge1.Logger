@@ -11,12 +11,13 @@
     <Product>AppLogger</Product>
     <Description>This is a test package that has a logger</Description>
     <PackageReadmeFile>README.md</PackageReadmeFile>
-    <PackageLicenseFile>MIT</PackageLicenseFile>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="README.md" Pack="true" PackagePath="" CopyToOutputDirectory="Always" />
     <None Include="LICENSE" Pack="true" PackagePath="" CopyToOutputDirectory="Always" />
+    <ProjectReference Include="https://github.com/username/repository.git" />
   </ItemGroup>
 
 </Project>
